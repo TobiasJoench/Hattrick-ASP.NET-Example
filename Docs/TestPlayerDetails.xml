@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HattrickData>
+  <FileName>playerdetails.xml</FileName>
+  <Version>2.8</Version>
+  <UserID>7938899</UserID>
+  <FetchedDate>2020-07-17 11:52:12</FetchedDate>
+  <UserSupporterTier>gold</UserSupporterTier>
+  <IsPlayingMatch>False</IsPlayingMatch>
+  <Player>
+    <PlayerID>451440200</PlayerID>
+    <FirstName>Cătălin</FirstName>
+    <NickName></NickName>
+    <LastName>Cocioabă</LastName>
+    <PlayerNumber>100</PlayerNumber>
+    <PlayerCategoryID>0</PlayerCategoryID>
+    <OwnerNotes></OwnerNotes>
+    <Age>18</Age>
+    <AgeDays>79</AgeDays>
+    <NextBirthDay>2020-08-19 00:00:00</NextBirthDay>
+    <ArrivalDate>2020-05-06 21:45:00</ArrivalDate>
+    <PlayerForm>7</PlayerForm>
+    <Cards>1</Cards>
+    <InjuryLevel>-1</InjuryLevel>
+    <Statement></Statement>
+    <PlayerLanguage>Romanian</PlayerLanguage>
+    <PlayerLanguageID>23</PlayerLanguageID>
+    <TrainerData />
+    <OwningTeam>
+      <TeamID>199692</TeamID>
+      <TeamName>Tub Tacklers</TeamName>
+      <LeagueID>11</LeagueID>
+    </OwningTeam>
+    <Salary>3960</Salary>
+    <IsAbroad>True</IsAbroad>
+    <Agreeability>1</Agreeability>
+    <Aggressiveness>3</Aggressiveness>
+    <Honesty>2</Honesty>
+    <Experience>2</Experience>
+    <Loyalty>9</Loyalty>
+    <MotherClubBonus>False</MotherClubBonus>
+    <Leadership>3</Leadership>
+    <Specialty>5</Specialty>
+    <NativeCountryID>36</NativeCountryID>
+    <NativeLeagueID>37</NativeLeagueID>
+    <NativeLeagueName>România</NativeLeagueName>
+    <TSI>2190</TSI>
+    <PlayerSkills>
+      <StaminaSkill>6</StaminaSkill>
+      <KeeperSkill>1</KeeperSkill>
+      <PlaymakerSkill>7</PlaymakerSkill>
+      <ScorerSkill>6</ScorerSkill>
+      <PassingSkill>5</PassingSkill>
+      <WingerSkill>4</WingerSkill>
+      <DefenderSkill>4</DefenderSkill>
+      <SetPiecesSkill>5</SetPiecesSkill>
+    </PlayerSkills>
+    <Caps>0</Caps>
+    <CapsU20>0</CapsU20>
+    <CareerGoals>5</CareerGoals>
+    <CareerHattricks>0</CareerHattricks>
+    <LeagueGoals>5</LeagueGoals>
+    <CupGoals>0</CupGoals>
+    <FriendliesGoals>0</FriendliesGoals>
+    <MatchesCurrentTeam>16</MatchesCurrentTeam>
+    <GoalsCurrentTeam>5</GoalsCurrentTeam>
+    <TransferListed>False</TransferListed>
+    <TransferDetails />
+  </Player>
+  <Player>
+    <PlayerID>451440200</PlayerID>
+    <FirstName>Tobias</FirstName>
+    <NickName></NickName>
+    <LastName>Cocioabă</LastName>
+    <PlayerNumber>100</PlayerNumber>
+    <PlayerCategoryID>0</PlayerCategoryID>
+    <OwnerNotes></OwnerNotes>
+    <Age>18</Age>
+    <AgeDays>79</AgeDays>
+    <NextBirthDay>2020-08-19 00:00:00</NextBirthDay>
+    <ArrivalDate>2020-05-06 21:45:00</ArrivalDate>
+    <PlayerForm>7</PlayerForm>
+    <Cards>1</Cards>
+    <InjuryLevel>-1</InjuryLevel>
+    <Statement></Statement>
+    <PlayerLanguage>Romanian</PlayerLanguage>
+    <PlayerLanguageID>23</PlayerLanguageID>
+    <TrainerData />
+    <OwningTeam>
+      <TeamID>199692</TeamID>
+      <TeamName>Tub Tacklers</TeamName>
+      <LeagueID>11</LeagueID>
+    </OwningTeam>
+    <Salary>3960</Salary>
+    <IsAbroad>True</IsAbroad>
+    <Agreeability>1</Agreeability>
+    <Aggressiveness>3</Aggressiveness>
+    <Honesty>2</Honesty>
+    <Experience>2</Experience>
+    <Loyalty>9</Loyalty>
+    <MotherClubBonus>False</MotherClubBonus>
+    <Leadership>3</Leadership>
+    <Specialty>5</Specialty>
+    <NativeCountryID>36</NativeCountryID>
+    <NativeLeagueID>37</NativeLeagueID>
+    <NativeLeagueName>România</NativeLeagueName>
+    <TSI>2190</TSI>
+    <PlayerSkills>
+      <StaminaSkill>6</StaminaSkill>
+      <KeeperSkill>1</KeeperSkill>
+      <PlaymakerSkill>7</PlaymakerSkill>
+      <ScorerSkill>6</ScorerSkill>
+      <PassingSkill>5</PassingSkill>
+      <WingerSkill>4</WingerSkill>
+      <DefenderSkill>4</DefenderSkill>
+      <SetPiecesSkill>5</SetPiecesSkill>
+    </PlayerSkills>
+    <Caps>0</Caps>
+    <CapsU20>0</CapsU20>
+    <CareerGoals>5</CareerGoals>
+    <CareerHattricks>0</CareerHattricks>
+    <LeagueGoals>5</LeagueGoals>
+    <CupGoals>0</CupGoals>
+    <FriendliesGoals>0</FriendliesGoals>
+    <MatchesCurrentTeam>16</MatchesCurrentTeam>
+    <GoalsCurrentTeam>5</GoalsCurrentTeam>
+    <TransferListed>False</TransferListed>
+    <TransferDetails />
+  </Player>
+</HattrickData>
